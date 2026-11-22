@@ -1,0 +1,1 @@
+I need to start making consistent progress, maybe thorugh constant git commits. 
